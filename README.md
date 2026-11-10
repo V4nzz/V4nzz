@@ -36,6 +36,5 @@ Software Engineer & Final-year Informatics Student at **Institut Teknologi Sumat
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=V4nzz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Ivan's GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=V4nzz&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Languages" height="150" />
+  <img src="https://streak-stats.demolab.com?user=V4nzz&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" />
 </p>
