@@ -56,8 +56,6 @@ Software Engineer & Final-year Informatics Student at **Institut Teknologi Sumat
 
 ---
 
----
-
 ### 🐍 Contribution Activity
 
 <p align="center">
