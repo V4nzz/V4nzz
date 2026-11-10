@@ -53,3 +53,13 @@ Software Engineer & Final-year Informatics Student at **Institut Teknologi Sumat
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=V4nzz&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" />
 </p>
+
+---
+
+---
+
+### 🐍 Contribution Activity
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/V4nzz/V4nzz/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%" />
+</p>
