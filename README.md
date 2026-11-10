@@ -16,7 +16,7 @@ Software Engineer & Final-year Informatics Student at **Institut Teknologi Sumat
 
 ---
 
-### 🛠️ Tech Stack & Arsenal
+### 🛠️ Tech Stack
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
